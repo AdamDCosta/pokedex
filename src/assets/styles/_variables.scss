@@ -1,0 +1,20 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans+Condensed:wght@300&display=swap');
+
+
+$font-primary: 'Open Sans Condensed', sans-serif;
+
+$color-primary: #D7D0B2;
+$color-secondary: #E9E9EA;
+$color-accent: #EC8F19;
+
+$text-primary: #393334;
+$text-secondary: #B8BBC5;
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  background-color: $color-secondary;
+  font-family: $font-primary;
+}

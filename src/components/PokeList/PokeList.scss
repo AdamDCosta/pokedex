@@ -1,0 +1,7 @@
+@use "../../assets/styles/variables" as *;
+
+.poke-list {
+  display: grid;
+  grid-template-columns: repeat(5, 1fr);
+  width: 100%;
+}

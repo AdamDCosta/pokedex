@@ -1,0 +1,10 @@
+@use "../../assets/styles/variables" as *;
+
+.nav {
+  height: 10vh;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 10px;
+  
+}
